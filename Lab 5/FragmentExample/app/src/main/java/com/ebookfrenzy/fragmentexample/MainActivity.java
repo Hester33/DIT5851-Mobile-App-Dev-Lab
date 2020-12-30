@@ -13,5 +13,9 @@ public class MainActivity extends  FragmentActivity implements ToolbarFragment.T
     }
 
     public void onButtonClick(int fontsize, String text) {
+        TextFragment textFragment =
+                (TextFragment)
+                        getSupportFragmentManager().findFragmentById(R.id.text_fragment);
+                textFragment.changeTextProperties(fontsize, text);
     }
 }
