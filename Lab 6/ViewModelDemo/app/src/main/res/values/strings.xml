@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewModelDemo</string>
+    <string name="mainfragment">MainFragment</string>
+    <string name="convert">Convert</string>
+    <string name="convert_to_rm">Convert to RM</string>
+    <string name="enter_value_in_usd">Enter value in USD</string>
+</resources>
