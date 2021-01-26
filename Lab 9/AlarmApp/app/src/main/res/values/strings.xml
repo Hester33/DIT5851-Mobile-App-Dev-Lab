@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlarmApp</string>
+    <string name="start_counter">Start Counter</string>
+</resources>
